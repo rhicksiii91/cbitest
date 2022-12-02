@@ -1,1 +1,1 @@
-FROM blackrob/robsworld:1.0
+FROM blackrob/robsworld:2.0
